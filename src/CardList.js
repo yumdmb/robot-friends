@@ -17,5 +17,5 @@ const CardList = ({ robots }) => {
     </div>
   );
 };
-
+// export the CardList component
 export default CardList;
