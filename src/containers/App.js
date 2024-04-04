@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import CardList from "./CardList";
-import SearchBox from "./SearchBox";
+import CardList from "../components/CardList";
+import SearchBox from "../components/SearchBox";
 //import { robots } from "./robots"; // we dont use this anymore because we are fetching from an API
 import "./App.css";
-import Scroll from "./Scroll";
+import Scroll from "../components/Scroll";
 
 //STATE object that describes your application
 //STATE is able to change and affect the application
